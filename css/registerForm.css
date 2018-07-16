@@ -1,0 +1,118 @@
+body {
+    background: #f0f3f6;
+    font-size: 14px;
+    font-family: MicrosoftYaHei;
+    color: #4a4a4a;
+}
+
+a {
+    text-decoration: none;
+    color: #4A90E2;
+}
+
+h2 {
+    width: 96px;
+    height: 31px;
+    font-size: 24px;
+    line-height: 31px;
+    font-weight: unset;
+    padding-left: 171px;
+    padding-top: 27px;
+    margin: 0;
+}
+
+hr {
+    width: 803px;
+    background-color: #b6b6b6;
+    height: 1px;
+    border: none;
+}
+
+.bg-shadow {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    //background: #f0f3f6;
+    //box-shadow: 0px 0px 10px 2px #d4dfec;
+    //border-radius: 5px;
+    width: 1024px;
+    height: 588px;
+}
+
+.content {
+    width: 960px;
+    height: 580px;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2);
+    background: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    margin: 3px 33px;
+}
+
+.registerForm {
+    margin: 20px 321px 2px 0;
+}
+
+input,
+select {
+    width: 360px;
+    height: 40px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #979797;
+    margin-bottom: 20px;
+    margin-left: 19px;
+}
+
+.input {
+    text-align: right;
+}
+
+.input span {
+    width: 40px;
+    height: 20px;
+    font-size: 14px;
+    font-family: PingFangSC-Medium;
+    color: #39393A;
+    line-height: 20px;
+}
+
+input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    background: #ffffff;
+    border-radius: 3px;
+    border: 1px solid #9b9b9b;
+    vertical-align: top;
+}
+.prot{
+    display:inline-block;
+    vertical-align:top;
+}
+.red-star {
+    color: red;
+}
+
+.btn {
+    display: block;
+    width: 100px;
+    height: 40px;
+    background: #4a90e2;
+    border-radius: 5px;
+    border: 1px solid #4a90e2;
+    font-size: 14px;
+    color: #ffffff;
+    margin-left: 280px;
+}
+
+.to-login {
+    text-align: right;
+    padding-right: 65px;
+}
+
+.protol {
+    margin-left: 80px;
+}
